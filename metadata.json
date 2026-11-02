@@ -1,0 +1,6 @@
+{
+  "name": "Hawkents Store & Fitness Center",
+  "description": "International fashion store and modern fitness center serving Nigeria, USA, and Canada. Shop shoes, apparel, bags, gym gear, and book nutritious fitness meals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
